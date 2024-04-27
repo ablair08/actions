@@ -1,0 +1,13 @@
+{
+    "name": "S3",
+    "description": "S3 Bucket.",
+    "iconName": "copilot",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
